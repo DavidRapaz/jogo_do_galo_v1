@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "jogo_do_galo_v1/1.0.0": {
+        "runtime": {
+          "jogo_do_galo_v1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jogo_do_galo_v1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

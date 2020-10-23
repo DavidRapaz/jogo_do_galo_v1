@@ -1,0 +1,13 @@
+C:\Users\David\source\repos\jogo_do_galo_v1\jogo_do_galo_v1\bin\Debug\netcoreapp3.1\jogo_do_galo_v1.exe
+C:\Users\David\source\repos\jogo_do_galo_v1\jogo_do_galo_v1\bin\Debug\netcoreapp3.1\jogo_do_galo_v1.deps.json
+C:\Users\David\source\repos\jogo_do_galo_v1\jogo_do_galo_v1\bin\Debug\netcoreapp3.1\jogo_do_galo_v1.runtimeconfig.json
+C:\Users\David\source\repos\jogo_do_galo_v1\jogo_do_galo_v1\bin\Debug\netcoreapp3.1\jogo_do_galo_v1.runtimeconfig.dev.json
+C:\Users\David\source\repos\jogo_do_galo_v1\jogo_do_galo_v1\bin\Debug\netcoreapp3.1\jogo_do_galo_v1.dll
+C:\Users\David\source\repos\jogo_do_galo_v1\jogo_do_galo_v1\bin\Debug\netcoreapp3.1\jogo_do_galo_v1.pdb
+C:\Users\David\source\repos\jogo_do_galo_v1\jogo_do_galo_v1\obj\Debug\netcoreapp3.1\jogo_do_galo_v1.csprojAssemblyReference.cache
+C:\Users\David\source\repos\jogo_do_galo_v1\jogo_do_galo_v1\obj\Debug\netcoreapp3.1\jogo_do_galo_v1.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\jogo_do_galo_v1\jogo_do_galo_v1\obj\Debug\netcoreapp3.1\jogo_do_galo_v1.AssemblyInfo.cs
+C:\Users\David\source\repos\jogo_do_galo_v1\jogo_do_galo_v1\obj\Debug\netcoreapp3.1\jogo_do_galo_v1.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\jogo_do_galo_v1\jogo_do_galo_v1\obj\Debug\netcoreapp3.1\jogo_do_galo_v1.dll
+C:\Users\David\source\repos\jogo_do_galo_v1\jogo_do_galo_v1\obj\Debug\netcoreapp3.1\jogo_do_galo_v1.pdb
+C:\Users\David\source\repos\jogo_do_galo_v1\jogo_do_galo_v1\obj\Debug\netcoreapp3.1\jogo_do_galo_v1.genruntimeconfig.cache
